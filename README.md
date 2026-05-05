@@ -9,7 +9,7 @@ I build things — software companies, embedded hardware, Bitcoin scripts, and s
 ## Tinkering
 
 - **Hardware** — Arduino, Raspberry Pi, IoT prototypes, home automation & 3D printing
-- **Bitcoin** — key extraction, puzzle challenges, applied cryptography
+- **Bitcoin** — puzzle challenges, applied cryptography – never too old to have a little more freedom
 - **Infrastructure** — self-hosted stacks, Threadripper & CUDA workstations, networking layers
 
 
