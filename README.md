@@ -8,7 +8,10 @@ I build things — software companies, AI tooling, embedded hardware, and self-h
 ## Right now
 **42: The AI Builder's Stack** — a practitioner's guide to building real things with AI. Free to read at [eltexsoft.com](https://eltexsoft.com).
 
-The Claude Code setup behind it is public: **[claude-code-setup](https://github.com/roadhero/claude-code-setup)** — a stack-agnostic engineering spine, 50 scoped agents across four stacks, and the hooks that keep it honest. No email gate, take what's useful.
+The setups behind it are public, one per tool. No email gate, take what's useful.
+
+- **[claude-code-setup](https://github.com/roadhero/claude-code-setup)** — my Claude Code setup: a stack-agnostic engineering spine, 50 scoped agents across four stacks, and the hooks that keep it honest.
+- **[codex-setup](https://github.com/roadhero/codex-setup)** — the same discipline for OpenAI Codex: 23 specialist agents plus a read-only explorer, eight skills, global and project guidance, profiles, hooks, a reversible installer, and verified releases.
 
 ## Tinkering
 - **Hardware** — Arduino, Raspberry Pi, IoT prototypes, home automation & 3D printing
