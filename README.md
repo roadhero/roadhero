@@ -22,5 +22,5 @@ The setups behind it are public, one per tool. No email gate, take what's useful
 
 I write for [Forbes Technology Council](https://councils.forbes.com/profile/Denys-Vorobyov-Founder-CEO-EltexSoft/e2640c9c-45c2-4a38-a0a9-f47b58b19a12) and have been featured in the [Financial Times](https://ft.com/content/6a23a27c-3500-11e5-b05b-b01debd57852).
 
-- [Navigating The Future: EdTech Investment And The New Learning Paradigm](https://forbes.com/councils/forbestechcouncil/2024/05/07/navigating-the-future-edtech-investment-and-the-new-learning-paradigm/) — Forbes, 2024
+- [What LLMs Are And What They're Not: A Practical Guide For Leaders Making Real Decisions About AI](https://www.forbes.com/councils/forbestechcouncil/2026/06/08/what-llms-are-and-what-theyre-not-a-practical-guide-for-leaders-making-real-decisions-about-ai/) — Forbes, 2026
 - [On the Ukrainian tech freelance ecosystem](https://ft.com/content/6a23a27c-3500-11e5-b05b-b01debd57852) — Financial Times, 2015
